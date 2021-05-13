@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Exploring Physics, Technology, Biology and ancient secrets of Human Consciousness</description>
-	<lastBuildDate>Wed, 12 May 2021 08:14:09 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 May 2021 17:06:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Win.</title>
 		<link>/win/</link>
-					<comments>/win/#respond</comments>
 		
 		<dc:creator><![CDATA[Aman Dhakad]]></dc:creator>
 		<pubDate>Fri, 30 Apr 2021 18:34:00 +0000</pubDate>
@@ -125,8 +124,6 @@
 <p>The post <a rel="nofollow" href="/win/">Win.</a> appeared first on <a rel="nofollow" href="/">Aman Dhakad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/win/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
